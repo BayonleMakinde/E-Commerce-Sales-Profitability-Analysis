@@ -1,4 +1,5 @@
-# ⚒️ Data Forge Challenge #002: E-Commerce Sales & Profitability Analysis
+# ⚒️ Data Forge Challenge #002: 
+E-Commerce Sales & Profitability Analysis
 
 Welcome to the official repository for **Data Forge Challenge #002**! 
 
