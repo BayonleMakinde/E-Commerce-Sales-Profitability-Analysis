@@ -122,7 +122,6 @@ Examples include:
 - Python
 - SQL
 - SPSS
-- 
 ---
 
 ## 📊 Expected Output
